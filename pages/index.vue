@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Kangeeeeeeeeeeeeeeeeennnnnn WOIIIII^2500', 'SERIUSSS KANGEN!!! >///<']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Kangeeeeeeeeeeeeeeeeennnnnn WOIIIII^2500', 'SERIUSSS KANGEN!!! >///<', 'KANGEN NVT YANG SUKA MUKUL MUKUL', 'KANGEN KAMU YANG KALO KETAWA BIKIN SAYA KETAWA JUGA', 'KANGEN NGOBROL LANGSUNG', 'KANGEN WAJAH KAMU', 'KANGEN SUARA KAMU', 'ISH RINDU KAMU!!!!']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
