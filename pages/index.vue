@@ -38,7 +38,6 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-//        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'Nevermind! >///<']"
         :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Kangeeeeeeeeeeeeeeeeennnnnn WOIIIII^2500', 'SERIUSSS KANGEN!!! >///<']"
         :backDelay="500"
         :typeSpeed="100"
